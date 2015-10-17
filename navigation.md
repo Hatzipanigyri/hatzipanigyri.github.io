@@ -1,5 +1,5 @@
 ﻿# Ioanna Hatzipanigyri
 
 [Gallery](gallery.md)
-[Επικοινωνία](contact.md)
+[Contact](contact.md)
 
