@@ -1,7 +1,5 @@
-﻿# Το site μου
+﻿# Ioanna Hatzipanigyri
 
-[Βιογραφικό](bio.md)
-[Φωτογραφίες](photos.md)
-[Διάφορα](misc.md)
+[Gallery](gallery.md)
 [Επικοινωνία](contact.md)
-[Βοήθεια για το site](help.md)
+
