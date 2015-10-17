@@ -2,4 +2,4 @@
 
 
 
-[gimmick:FacebookLike](./)
+[gimmick:FacebookLike](https://hatzipanigyri.github.io)
